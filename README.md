@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emre ASLAN</h1>
 <h3 align="center">Blockchain Developer,Advisor,Backer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emreasln&label=Profile%20views&color=0e75b6&style=flat" alt="emreasln" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emreasln" alt="emreasln" /></a> </p>
 
 - Blockchain Developer [BitcoinBam](https://btcbam.com/)
 
