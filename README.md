@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/emreasln](https://github.com/emreasln)
 
 Articles
-Object Recognition Application with Tensorflow and Deep Learning (http://icaiame.com/wp-content/uploads/2019/12/ICAIAME_2019_E-Proceeding.pdf)
+Object Recognition Application with Tensorflow and Deep Learning<br> (http://icaiame.com/wp-content/uploads/2019/12/ICAIAME_2019_E-Proceeding.pdf)
 
 Awards<br>
 Tubitak 2209-A 
@@ -19,6 +19,9 @@ Tubitak 2209-A
 News<br>
 https://www.mehmetakif.edu.tr/haber/381/makulu-ogrencilerin-tubitak-proje-basarisi
 
+Education <br>
+Mehmet Akif Ersoy University - Computer engineering
+Anadolu Universit - Justice
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
