@@ -21,7 +21,7 @@ https://www.mehmetakif.edu.tr/haber/381/makulu-ogrencilerin-tubitak-proje-basari
 
 Education <br>
 Mehmet Akif Ersoy University - Computer engineering <br>
-Anadolu Universit - Justice
+Anadolu University - Justice
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
