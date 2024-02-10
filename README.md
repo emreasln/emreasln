@@ -13,10 +13,10 @@
 Articles
 Object Recognition Application with Tensorflow and Deep Learning (http://icaiame.com/wp-content/uploads/2019/12/ICAIAME_2019_E-Proceeding.pdf)
 
-Awards
+Awards<br>
 Tubitak 2209-A 
 
-News
+News<br>
 https://www.mehmetakif.edu.tr/haber/381/makulu-ogrencilerin-tubitak-proje-basarisi
 
 <h3 align="left">Connect with me:</h3>
