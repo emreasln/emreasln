@@ -2,11 +2,7 @@
 <h3 align="center">Blockchain Developer,Advisor,Backer</h3>
 
 
-- Blockchain Developer [BitcoinBam](https://btcbam.com/)
 
-- Blockchain Advisor [Metapotamians](https://metapotamians.com/)
-
-- Blockchain Backer [Hepton](https://www.hepton.io/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/emreasln](https://github.com/emreasln)
 
