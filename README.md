@@ -6,6 +6,9 @@
 
 👨‍💻 All of my projects are available at [https://github.com/emreasln](https://github.com/emreasln)
 
+Computer engineering community founder <br>
+https://github.com/emreasln/File/blob/main/Emre%20ASLAN.pdf<br>
+
 Articles<br>
 Object Recognition Application with Tensorflow and Deep Learning<br> (http://icaiame.com/wp-content/uploads/2019/12/ICAIAME_2019_E-Proceeding.pdf)
 
