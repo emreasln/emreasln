@@ -4,7 +4,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/emreasln](https://github.com/emreasln)
+👨‍💻 All of my projects are available at [https://github.com/emreasln](https://github.com/emreasln)
 
 Articles<br>
 Object Recognition Application with Tensorflow and Deep Learning<br> (http://icaiame.com/wp-content/uploads/2019/12/ICAIAME_2019_E-Proceeding.pdf)
